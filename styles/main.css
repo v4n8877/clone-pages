@@ -15,12 +15,15 @@
 	 max-width: 1140px;
 	 width: 100%;
 }
- body section, body .how-about-area {
+ body section, body .how-about-area, body .fact {
 	 display: flex;
 	 justify-content: center;
 	 background-color: #4b75cd17;
 }
  body .how-about-area {
 	 background-color: transparent;
+}
+ body .fact {
+	 background: linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
 }
  

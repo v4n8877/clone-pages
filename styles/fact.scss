@@ -1,0 +1,13 @@
+.fact-area {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 50px 35px;
+	color: #fff;
+	&__element {
+		text-align: center;
+		p {
+			text-transform: capitalize;
+		}
+	}
+}
