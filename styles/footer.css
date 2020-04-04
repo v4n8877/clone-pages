@@ -1,0 +1,32 @@
+.footer {
+   display: flex;
+   justify-content: space-between;
+   padding: 50px 90px;
+   background-color: #04091e;
+   color: #fff;
+}
+ .footer__about {
+   flex-basis: 40%;
+   padding: 0 15px;
+}
+ .footer__about:last-child {
+   flex-basis: 20%;
+}
+ .footer__about h4 {
+   text-transform: capitalize;
+   margin-bottom: 20px;
+}
+ .footer__about p {
+   margin-bottom: 20px;
+}
+ .footer__about--input {
+   display: flex;
+}
+ .footer__about--input--btn button {
+   padding: 5px 10px;
+}
+ .footer__about--input--btn button img {
+   width: 15px;
+   margin-top: 3px;
+}
+ 
