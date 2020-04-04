@@ -17,12 +17,12 @@ body {
     max-width: 1140px;
     width: 100%;
 	}
-	section, .how-about-area, .fact {
+	section, .how-about-area, .fact, .blog{
 		display: flex;
 		justify-content: center;
 		background-color: #4b75cd17;
 	}
-	.how-about-area {
+	.how-about-area, .blog {
 		background-color: transparent;
 	}
 	.fact {
