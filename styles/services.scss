@@ -1,0 +1,50 @@
+.services-area {
+	padding: 50px 0;
+	&__title {
+		text-align: center;
+		h1 {
+			margin-bottom: 10px;
+		}
+		p {
+			margin-bottom: 1rem;
+		}
+	}
+	&__menu {
+		display: flex;
+		justify-content: space-between;
+		&--items {
+	    margin-top: 60px;
+      flex-basis: 33.33%;
+	    display: flex;
+	    flex-direction: column;
+	    align-items: center;
+	    text-align: center;
+	    padding: 0 40px;
+	    cursor: pointer;
+			img {
+				width: 35px;
+				height: 35px;
+				margin-bottom: 1rem; 
+			}
+			p {
+				color: #777777;
+				font-family: sans-serif;
+		    font-size: 14px;
+		    font-weight: 300;
+		    line-height: 1.625em;
+			}
+			h4 {
+				text-transform: capitalize;
+				margin-bottom: 1rem; 
+			}
+			&:hover {
+				img {
+					filter: invert(49%) sepia(72%) saturate(2837%) hue-rotate(203deg) brightness(85%) contrast(86%);
+				}
+				h4 {
+					color: #4b75cd;
+				}
+			}
+		}
+	}
+}
