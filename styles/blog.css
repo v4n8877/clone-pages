@@ -37,9 +37,11 @@
 }
  .content__items--thumb {
 	 overflow: hidden;
+	 height: 225px;
 }
  .content__items--thumb img {
 	 width: 100%;
+	 height: 100%;
 	 transition: all 0.3s ease 0s;
 }
  .content__items--thumb-2 {
