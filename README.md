@@ -1,7 +1,7 @@
 ## Project Title
 CSS PROJECT Bài 40 - Tổng kết và chốt hạ khóa [PRO] MASTER CSS 2018. 
 ## Getting Started
-Use git clone to copy repository
+- Use git clone to copy repository
 ## Motivation
 Try to improve my knowledge about frontend (html, css and javascript).
 ## Code style
@@ -60,6 +60,9 @@ Try to improve my knowledge about frontend (html, css and javascript).
 		}
 	}
 }
+
+## Demo
+https://v4n8877-personal.firebaseapp.com
 ## How to use?
 - Open with browser
 ## Credits
